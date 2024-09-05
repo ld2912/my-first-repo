@@ -1,3 +1,3 @@
 # my-first-repo
-![foto van laura](bleh.heic.jpeg)
+![foto van laura](bleh.heic)
 
